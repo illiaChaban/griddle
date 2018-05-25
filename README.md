@@ -4,6 +4,7 @@
 
 <br>
 <a href="https://griddle-ec3d9.firebaseapp.com/">Visit our website</a>
+<br>
 
 [![griddle-screenshot-desktop](https://user-images.githubusercontent.com/19500679/37472755-35022454-2843-11e8-8050-0cf940c2067e.png)](https://griddle-ec3d9.firebaseapp.com/)
 
